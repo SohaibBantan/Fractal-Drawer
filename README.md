@@ -16,19 +16,19 @@ Installation
 Clone the repository to your local machine:
 
 
-Copy code
+Copy code:
 git clone https://github.com/SohaibBantan/fractal-drawing-project.git
 cd fractal-drawing-project
 
 Compile the project:
 
-Copy code
+Copy code:
 javac *.java
 
 Run the main class:
 
 
-Copy code
+Copy code:
 java FractalProgram
 
 📂 Project Structure
